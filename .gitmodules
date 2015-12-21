@@ -1,0 +1,3 @@
+[submodule "checkstyle"]
+	path = checkstyle
+	url = git@github.schibsted.io:spt-marketplace/android-checkstyle.git
