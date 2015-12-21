@@ -1,8 +1,8 @@
 language: android
 env:
   global:
-  - ANDROID_HOME=/usr/local/android-sdk-24.0.2
-  - PATH=${ANDROID_HOME}/:${ANDROID_HOME}/tools/:${ANDROID_HOME}/platform-tools/:${PATH}
+#  - ANDROID_HOME=/usr/local/android-sdk-24.0.2
+#  - PATH=${ANDROID_HOME}/:${ANDROID_HOME}/tools/:${ANDROID_HOME}/platform-tools/:${PATH}
 
 
 android:
